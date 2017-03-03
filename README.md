@@ -62,6 +62,12 @@ $ bundle
 $ make app-cal
 ```
 
+If you have issues with bundle command, you have to install the Xcode Command Line Tools running this command:
+
+```
+$ xcode-select --install
+```
+
 
 #### Cucumber
 
